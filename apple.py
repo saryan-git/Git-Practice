@@ -1,1 +1,1 @@
-print("This is the new apple script.")
+print("This is the apple script.")
